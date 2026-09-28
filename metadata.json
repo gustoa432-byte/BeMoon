@@ -1,0 +1,6 @@
+{
+  "name": "BE&MOON",
+  "description": "Consumer ecosystem for the beauty industry connecting Person, Work, and Place. Discover, connect, and book top masters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
